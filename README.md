@@ -1,0 +1,2 @@
+# wordpressTemplate
+Generic wordpress template
